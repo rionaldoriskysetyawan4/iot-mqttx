@@ -1,0 +1,8 @@
+{
+  "name": "smartfish-backend",
+  "dependencies": {
+    "mqtt": "^5.0.0",
+    "pg": "^8.0.0",
+    "express": "^4.17.1"
+  }
+}
